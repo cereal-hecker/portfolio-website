@@ -10,7 +10,7 @@ function App() {
       <LandingPage />
       <AboutMe />
       <Projects />
-      <img className="w-20 fixed bottom-10 left-10" src="src/assets/images/prof.gif"></img>
+      <img className="w-20 fixed bottom-10 left-10" src="/images/prof.gif"></img>
     </div>
   )
 }

@@ -14,7 +14,7 @@ export default function AboutMe() {
         <div className="items-bottom align-bottom w-64 flex-none ">
         <motion.img
             className="absolute w-64 mt-64"
-            src="/src/assets/images/spaceship.svg"
+            src="/images/spaceship.svg"
             initial={{ x: '5000px' }}
             animate={{ x: 0, y: 0}}
           />

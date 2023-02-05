@@ -11,7 +11,7 @@ export default function LandingPage() {
     <div className="h-screen flex px-20 text-white">
       <motion.img
         className="fixed right-32 w-28"
-        src="/src/assets/images/lamp.svg"
+        src="/images/lamp.svg"
         alt="lamp"
         whileHover={{
     scale: 1.3,
@@ -21,12 +21,12 @@ export default function LandingPage() {
       <h1 className="text-8xl font-extrabold title-xl mt-16">HEY</h1>
       <motion.img
       className="absolute explore-text"
-      src="/src/assets/images/explore-text.svg" 
+      src="/images/explore-text.svg" 
       style={{rotate}}
   />
 
       <img
-        src="/src/assets/images/space-circle.svg"
+        src=" /images/space-circle.svg"
         alt="a vv pretty space circle"
         className="mx-auto flex-1 p-12 -ml-32 space"
       />
